@@ -19,6 +19,7 @@
 
     <modules>
         <module>myrpc</module>
+        <module>spring-stransaction</module>
     </modules>
 
     <properties>
